@@ -1,0 +1,24 @@
+{
+  "name": "lorem-ipsum-dom",
+  "version": "0.0.0",
+  "description": "lorem-ipsum-dom",
+  "main": "build/bundle.js",
+  "scripts": {
+    "build": "bankai build index.js ./build"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "bankai": "^8.1.1",
+    "bel": "^5.1.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/blahah/lorem-ipsum-dom.git"
+  },
+  "author": "Rik Smith-Unna (@blahah)",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/blahah/lorem-ipsum-dom/issues"
+  },
+  "homepage": "https://github.com/blahah/lorem-ipsum-dom"
+}
