@@ -2,7 +2,7 @@
 
 <div align="center">
   <h1>lorem-ipsum-dom</h1>
-  <h2>WIP - nothing to see here</h2>
+  <h2>For when you want a lot of content to quickly attach to the DOM</h2>
   <p>
     <a href="https://npmjs.com/packages/lorem-ipsum-dom" alt="npm package">
       <img src="https://img.shields.io/npm/v/lorem-ipsum-dom.svg?style=flat-square">
@@ -12,8 +12,6 @@
     </a>
   </p>
 </div>
-
-For when you want a lot of content to quickly attach to the DOM.
 
 ---
 
