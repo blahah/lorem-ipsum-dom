@@ -24,9 +24,9 @@ npm install --save lorem-ipsum-dom
 ## Usage
 
 ``` js
-var lorumipsum = require('lorem-ipsum-dom')
+var loremipsum = require('lorem-ipsum-dom')
 
-document.body.appendChild(lorumipsum())
+document.body.appendChild(loremipsum())
 ```
 
 ## License
